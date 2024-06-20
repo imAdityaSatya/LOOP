@@ -1,0 +1,21 @@
+gitRepoStr:
+
+CodingPractice	------ong.
+
+* HeartWise	------pList_A	-- 26-27th Jun
+* LOOP v2	------pList_A	-- 25th Jun
+* TicTacToe	------pList_C	-- 23rd Jun
+* SnakeAndRiddles  ---pList_B	-- 22nd Jun
+* MoreSo	------pList_C	-- 21st Jun
+* LOOP v1	------pList_A	-- 20th Jun
+-------------------------------------------------
+* CaesarCipher	------pList_B
+* NumbGame	------pList_A
+Python_collegeRepo
+Data Structures
+ProjectEuler
+Self-Made-Qs
+* MinMax	-----pList_C
+HTML-tiny-projects
+* FLock-Vault	-----pList_C
+

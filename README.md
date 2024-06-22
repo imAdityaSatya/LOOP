@@ -2,11 +2,11 @@
 
 ▪︎ Developed a customized birthday wishing application using Java in Android studio
 
-▪︎ Implemented two variants: image slider and swipe-able videos for dynamic media preferences
+▪︎ Implemented two media variants (image slider & swipe-able videos) for dynamic preferences
 
-▪︎ Ensured seamless user experience and smooth transitions between the media.
- 
+▪︎ Ensured smooth transitions between the media for a seamless user experience
 
-Developed a customized birthday wishing application featuring both image and video sliders using ViewPager in Android Studio.
-Implemented in Java with a focus on seamless user experience and smooth transitions between media.
+
+We developed a customized birthday wishing application featuring both image and video sliders using ViewPager in Android Studio.
+It is implemented in Java, focusing on seamless user experience and smooth transitions between media.
 Enhanced application performance and usability through optimized code and efficient resource management.

@@ -1,7 +1,5 @@
 # LOOP
 
-
-LOOP
 ▪︎ A customized birthday wishing application
 ▪︎ Implemented two variants: image slider and swipe-able videos
 ▪︎ Built using Java in Android studio

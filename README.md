@@ -2,7 +2,7 @@
 
 ▪︎ Developed a customized birthday wishing application using Java in Android studio
 
-▪︎ Implemented two variants: image slider and swipe-able videos
+▪︎ Implemented two variants: image slider and swipe-able videos for dynamic media preferences
 
 ▪︎ Ensured seamless user experience and smooth transitions between the media.
  

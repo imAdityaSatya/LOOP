@@ -1,10 +1,10 @@
 # LOOP
 
-▪︎ A customized birthday wishing application
+▪︎ Developed a customized birthday wishing application using Java in Android studio
 
 ▪︎ Implemented two variants: image slider and swipe-able videos
 
-▪︎ Built using Java in Android studio
+▪︎ Ensured seamless user experience and smooth transitions between the media.
  
 
 Developed a customized birthday wishing application featuring both image and video sliders using ViewPager in Android Studio.

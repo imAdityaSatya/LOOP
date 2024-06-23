@@ -1,6 +1,6 @@
 # LOOP
 
-▪︎ Developed a customized birthday wishing application using Java in Android Studio
+▪︎ Developed a customized/personalized birthday wishing application using Java in Android Studio
 
 ▪︎ Implemented two media variants (image slider & swipe-able videos) catering to dynamic preferences
 

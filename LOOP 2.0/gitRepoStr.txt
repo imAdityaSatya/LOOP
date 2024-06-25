@@ -1,0 +1,20 @@
+gitRepoStr:
+
+CodingPractice	------ong.
+
+* HeartWise	------pList_A	
+* LOOP 		------pList_A	
+-----------------------------------------
+* TicTacToe	------pList_C	
+* SnakeAndRiddles  ---pList_B	
+* MorSo		------pList_C	
+* CaesarCipher	------pList_B
+* NumbGame	------pList_A
+Python_collegeRepo
+Data Structures
+ProjectEuler
+Self-Made-Qs
+* MinMax	-----pList_C
+HTML-tiny-projects
+* FLock-Vault	-----pList_C
+
